@@ -16,5 +16,13 @@
   "devDependencies": {
     "graphql": "^0.13.2"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfix22/graphql-batch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mfix22/graphql-batch/issues"
+  },
+  "homepage": "https://github.com/mfix22/graphql-batch#readme"
 }
